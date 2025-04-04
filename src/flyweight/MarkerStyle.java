@@ -1,4 +1,4 @@
-package src;
+package src.flyweight;
 
 public class MarkerStyle {
     private String icon;

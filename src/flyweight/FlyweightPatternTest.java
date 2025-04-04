@@ -1,4 +1,4 @@
-package src;
+package src.flyweight;
 
 public class FlyweightPatternTest {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class FlyweightPatternTest {
         Marker marker2 = new Marker("Location 2", restaurantStyle);
         marker1.render();
         marker2.render();
-        
+
         System.out.println("Unique marker styles: " + MarkerFactory.getUniqueStylesCount());
     }
 }

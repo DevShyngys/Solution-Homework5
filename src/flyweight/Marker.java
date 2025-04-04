@@ -1,4 +1,4 @@
-package src;
+package src.flyweight;
 
 public class Marker {
     private String location;

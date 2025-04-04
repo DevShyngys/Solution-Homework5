@@ -1,4 +1,4 @@
-package src;
+package src.proxy;
 
 public class ProxyImage implements Image {
     private String filename;

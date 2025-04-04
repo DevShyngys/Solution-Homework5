@@ -1,4 +1,6 @@
-package src;
+package src.proxy;
+
+import src.proxy.Image;
 
 public class RealImage implements Image {
     private String filename;

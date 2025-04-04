@@ -1,4 +1,4 @@
-package src;
+package src.proxy;
 
 public class ImageUploaderProxy extends ProxyImage {
     private boolean userLoggedIn;
